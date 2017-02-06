@@ -6,4 +6,9 @@
 
 .card {
   text-align: center;
+  margin-top: 1rem;
+}
+
+.card p {
+  display: none;
 }
